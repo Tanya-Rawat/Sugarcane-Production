@@ -3,9 +3,9 @@ It is a Jupyter Notebook hat performs an analysis of sugarcane production data u
 
 ## Built Using
 - Python Libraries:
--   Pandas
--   Seaborn
--   Matplotlib
+  - Pandas
+  - Seaborn
+  - Matplotlib
 
 ## Dataset 
 The dataset contains information about sugarcane production in various countries. It includes the following columns:
@@ -24,4 +24,11 @@ The dataset contains information about sugarcane production in various countries
 - **Correlation Analysis:** The correlation analysis investigates the relationships between numerical variables. A heatmap is used to visualize the correlation matrix and identify any significant correlations.
 - **Analysis by Continent:** Understanding the data at continent level.
 
+## Insights
+- Africa produces the most Sugarcane in Tons.
+- South America is the Continent with the maximum sugarcane production.
+- The country "Brazil" produces maximum sugarcane out of all countries.
+- Brazil has the highest Land.
+- Guatemala has the highest yield(kg/hectare).
+- Production per Person is highest in Paraguay.
 
